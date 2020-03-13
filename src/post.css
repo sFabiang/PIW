@@ -1,0 +1,20 @@
+.PostCorpo{
+    list-style: none;
+}
+.TituloPost{
+    font-size: medium;
+    margin-left: 20px;
+}
+.Name{
+    font-weight: bold;
+}
+li{
+    margin-top: 10px;
+    
+}
+.Impar{
+    background-color: wheat;
+}
+.Par{
+    background-color: rgb(228, 226, 226);
+}
